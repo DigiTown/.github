@@ -10,7 +10,7 @@ Based in Pune, India. We build websites and run social media and ads, starting w
 - **Ads:** Instagram and Google campaigns with simple monthly reports
 
 ## Work
-- [website-template-cafe](https://github.com/Digitown-ai/website-template-cafe): our cafe website template
+- [website-template](https://github.com/Digitown-ai/website-template-cafe): our cafe website template
 
 ## Contact
 - Website: [your domain]
